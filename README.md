@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lollipop03)](https://solved.ac/lollipop03)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rer10013&layout=compact&theme=tokyonight)
+
 <!--
 **rer10013/rer10013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
