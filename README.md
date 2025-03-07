@@ -10,9 +10,9 @@ I'm interested in many topics including Machine Learning, programming language t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rer10013&layout=compact&theme=tokyonight)
 
 ### 🌱 I’m currently learning
-Language: C, C++, Python, Java, Javascript(React.js)
-Topics: Machine Learning, Data strucutre & Algorithms
-At School: Linear Algrebra, Probability and Statistics, Discrete Mathematics, Digital Logic Design and Experiment, Object-Oriented Programming.
+Language: C, C++, Python, Java, Javascript(React.js)   
+Topics: Machine Learning, Data strucutre & Algorithms   
+At School: Linear Algrebra, Probability and Statistics, Discrete Mathematics, Digital Logic Design and Experiment, Object-Oriented Programming.   
 
 <!--
 
