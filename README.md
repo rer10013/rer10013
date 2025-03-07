@@ -6,8 +6,8 @@
 
 I'm interested in many topics including Machine Learning, programming language theory, and algorithms.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lollipop03)](https://solved.ac/lollipop03)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rer10013&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lollipop03)](https://solved.ac/lollipop03)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rer10013&layout=compact&theme=tokyonight)   
 
 ### 🌱 I’m currently learning
 Language: C, C++, Python, Java, Javascript(React.js)   
